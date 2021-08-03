@@ -10,9 +10,9 @@
 
 ## Description
 
-GeoTool application is a tool for structural geology analysis. It allows you to create a variety of popular, geological graphs like: rose graph, stereonet and contour graph.
+GeoTool application is a tool for structural geology analysis. It allows user to create a variety of popular, geological graphs like rose graph, stereonet and contour graph.
 
-Built-in and light database allows you to add your geo-measurements (coordinates, dip and strike, age and type of a structure). When you already have your set of measurements you can export data as CSV file.
+Built-in and light database allows user to add his geo-measurements (coordinates, dip and strike, age and type of a structure). After the completion of measurements, user has the possibility to export data as CSV file.
 
 ## Technology
 
